@@ -1,4 +1,4 @@
-   /*Implementation of a simple greedy method to optimally solve the two-stage production (flow) scheduling problem/
+   /*Implementation of a simple greedy method to optimally solve the two-stage production (flow) scheduling problem*/
 
 #include<stdio.h>
 #include<stdlib.h>
