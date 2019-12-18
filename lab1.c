@@ -1,4 +1,6 @@
-                                                                                                                    
+/*Application of binary searches to determine (in a logarithmic number of steps) which element in a pair of monotonically
+increasing sequences has a particular rank*/    
+
 #include<stdio.h>                                                                                                                     
 void quicksort(int number[25],int first,int last)                                      
                                                                                                                                     /*reference:www.beginnersbook.com*/   
